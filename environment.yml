@@ -1,4 +1,4 @@
-name: hydro
+name: nquerrazzi
 dependencies:
   - numpy
   - matplotlib
