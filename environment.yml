@@ -1,6 +1,6 @@
 name: nquerrazzi
 dependencies:
-  - numpy
+  - scipy
   - matplotlib
   - pandas
 
